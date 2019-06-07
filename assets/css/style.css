@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*-------------------------------------- Background Color */
+.navbar {
+    
+    background-color: white;
+}
+
+/*-------------------------------------- Alert */
+.alert {
+    margin: 0;
+}
+
+/*-------------------------------------- Nacbar */
+
+.nav {
+    position: absolute;
+    text-align: right;
+    z-index: 1;
+    color: black;
+    font-family: "Exo", sans-serif;
+    margin: 0;
+}
+
+/*-------------------------------------- Image */
+
+.img-fluid {
+    position: relative;
+    width: 100%;
+}
+
+
+
+/*--------------------------------Content container */
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+/*-------------------------------Page header */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
+.quotes .page-header {
+    margin-bottom: 25px;
+}
+
+/*--------------------------------Block dividers*/
+
+
+.block-divider--short {
+    width: 45px;
+    background-color: #ffd700;
+}
+
+/*-------------------------------------- Footer */
+
+footer {
+    background-color: #cce5ff;
+    color: #004085;
+    min-height: 120px;
+    margin: 0;
+}
+
+.cv-pdf i {
+    font-size: 18px;
+    color: #004085;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color: #ffd700;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #ffd700;
+}
+
+#footer-details {
+    padding: 20px;
+}
