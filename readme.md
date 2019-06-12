@@ -1,10 +1,10 @@
-The Philip Bramley Designs Website
+# The Philip Bramley Designs Website
 
 My project was designed for Philip Bramley who is a jewellery designer. This website is to show case the work he has done and the work that he can do.
 
 Essentially, this part is your sales pitch.
 
-UX
+# UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -22,7 +22,7 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-Features Left to Implement
+# Features Left to Implement
 Another feature idea
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
