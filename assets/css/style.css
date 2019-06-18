@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500|Exo:100,200,300,400');
+@import url('https://fonts.googleapis.com/css?family=Aguafina+Script&display=swap" rel="stylesheet">');
 
 /*-------------------------------------- Background Color */
 .navbar {
@@ -30,6 +31,13 @@ a {
     color: #fff;
     text-decoration: none;
     background-color: transparent;
+}
+
+/*-------------------------------------- Signature */
+
+.sign {
+    font-family: 'Aguafina Script', cursive;
+    font-size: 35px;
 }
 
 /*-------------------------------------- Image */
@@ -72,6 +80,24 @@ a {
     background-color: #ffd700;
 }
 
+/*-------------------------------- Contact-page*/
+
+.contact-page i {
+    font-size: 30px;
+    color: #004085;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 5px;
+    transition: color 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.contact-page i:hover {
+    color: #ffd700;
+}
+
 /*-------------------------------------- Footer */
 
 footer {
@@ -81,7 +107,7 @@ footer {
     margin: 0;
 }
 
-.cv-pdf i {
+.price-list-pdf i {
     font-size: 18px;
     color: #004085;
     text-align: center;
@@ -92,7 +118,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.cv-pdf i:hover {
+.price-list-pdf i:hover {
     color: #ffd700;
 }
 
@@ -155,4 +181,70 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 50%;
     }
+}
+
+
+.video {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.h1, h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.text-uppercase {
+    text-transform: uppercase!important;
+    text-align: center;
+}
+
+/*------------------------------------ Design Gallery */
+
+.gallery {
+  border: 1px solid #ccc;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
