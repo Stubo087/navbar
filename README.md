@@ -31,7 +31,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 ## Tech Used
 
 * Cloud9
-- This was the software that I used to write the html, css and Readme files. 
+** This was the software that I used to write the html, css and Readme files. 
 
 The project uses JQuery to simplify DOM manipulation.
 
