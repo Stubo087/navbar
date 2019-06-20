@@ -22,13 +22,17 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-## Features Left to Implement
+### Features Left to Implement
 
 Another feature idea
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
+## Tech Used
+
+* Cloud9
+- This was the software that I used to write the html, css and Readme files. 
+
 The project uses JQuery to simplify DOM manipulation.
 
 ## Testing
@@ -59,7 +63,7 @@ Different configuration files?
 Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
+## Credits
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
