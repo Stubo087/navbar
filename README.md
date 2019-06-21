@@ -31,7 +31,33 @@ In this section, you should mention all of the languages, frameworks, libraries,
 ## Tech Used
 
 * Cloud9
-  * This was the software that I used to write the html, css and Readme files. 
+  * This was the software that I used to write the html, css and Readme files.
+  * It was used to store all the images and videos.
+   
+* HTML 
+  * This was used to create the mark up language.
+   
+* CSS
+  * milestone-project/assets/css/styles.css
+    * CSS was used to style the elements of the HTML code.
+ 
+* Bootstrap
+  * href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+    * This was used to help style the website and the grid system layout of it.
+
+* Font Awesome
+  * https://use.fontawesome.com/releases/v5.8.1/css/all.css
+  * https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500|Exo:100,200,300,400
+  * https://fonts.googleapis.com/css?family=Aguafina+Script&display=swap" rel="stylesheet">
+    * These were used to create a universal font for the website.
+
+* Hover
+  * https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
+    * This was used to have the hover styles run smoothly
+
+* Validators
+  * An [HTML validator](https://validator.w3.org/#validate_by_input) was used to check the code.
+  * A [CSS checker](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to check the stylings.
 
 The project uses JQuery to simplify DOM manipulation.
 
